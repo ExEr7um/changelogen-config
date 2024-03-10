@@ -4,6 +4,6 @@
 
 ```json
 {
-  "extends": "github:Pacific-Agency/changelogen-config"
+  "extends": "github:ExEr7um/changelogen-config"
 }
 ```
