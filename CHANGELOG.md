@@ -1,4 +1,26 @@
 
+## v0.2.0
+
+[compare changes](https://github.com/ExEr7um/changelogen-config/compare/v0.1.2...v0.2.0)
+
+### 📖 Документация
+
+- ⚠️  Замена упоминаний `Pacific-Agency` на `ExEr7um` ([cb9422b](https://github.com/ExEr7um/changelogen-config/commit/cb9422b))
+- Добавление бейджа версии в `README` ([ddee60d](https://github.com/ExEr7um/changelogen-config/commit/ddee60d))
+
+### 🏡 Другие изменения
+
+- Удаление конфигурации Renovate ([b970cb2](https://github.com/ExEr7um/changelogen-config/commit/b970cb2))
+- Использование скрипта релиза из `ExEr7um/workflows` ([4038a40](https://github.com/ExEr7um/changelogen-config/commit/4038a40))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Замена упоминаний `Pacific-Agency` на `ExEr7um` ([cb9422b](https://github.com/ExEr7um/changelogen-config/commit/cb9422b))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.1.2
 
 [compare changes](https://github.com/Pacific-Agency/changelogen-config/compare/v0.1.1...v0.1.2)
