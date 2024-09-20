@@ -1,4 +1,20 @@
 
+## v0.2.1
+
+[compare changes](https://github.com/ExEr7um/changelogen-config/compare/v0.2.0...v0.2.1)
+
+### 🐞 Исправления
+
+- Добавление escape для сообщения коммита ([0bb7b0c](https://github.com/ExEr7um/changelogen-config/commit/0bb7b0c))
+
+### 🏡 Другие изменения
+
+- Обновление `workflows` ([4b8f12e](https://github.com/ExEr7um/changelogen-config/commit/4b8f12e))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.2.0
 
 [compare changes](https://github.com/ExEr7um/changelogen-config/compare/v0.1.2...v0.2.0)
