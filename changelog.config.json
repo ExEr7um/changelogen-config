@@ -1,6 +1,6 @@
 {
   "templates": {
-    "commitMessage": "chore(release): `v{{newVersion}}`"
+    "commitMessage": "chore(release): \\`v{{newVersion}}\\`"
   },
   "types": {
     "chore": {
