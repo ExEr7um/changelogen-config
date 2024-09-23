@@ -1,4 +1,5 @@
 {
+  "signTags": true,
   "templates": {
     "commitMessage": "chore(release): \\`v{{newVersion}}\\`"
   },
