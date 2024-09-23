@@ -1,4 +1,17 @@
 
+## v0.1.3
+
+[compare changes](https://github.com/Pacific-Agency/changelogen-config/compare/v0.1.2...v0.1.3)
+
+### 🐞 Исправления
+
+- Добавление escape для сообщения коммита ([f49ad24](https://github.com/Pacific-Agency/changelogen-config/commit/f49ad24))
+- Подписывание тегов ([b5a9030](https://github.com/Pacific-Agency/changelogen-config/commit/b5a9030))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.1.2
 
 [compare changes](https://github.com/Pacific-Agency/changelogen-config/compare/v0.1.1...v0.1.2)
