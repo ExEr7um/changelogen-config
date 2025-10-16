@@ -1,28 +1,12 @@
 {
-  "templates": {
-    "commitMessage": "chore(release): \\`v{{newVersion}}\\`"
-  },
+  "templates": { "commitMessage": "chore(release): \\`v{{newVersion}}\\`" },
   "types": {
-    "chore": {
-      "title": "🏡 Другие изменения"
-    },
-    "docs": {
-      "title": "📖 Документация"
-    },
-    "feat": {
-      "title": "🚀 Улучшения"
-    },
-    "fix": {
-      "title": "🐞 Исправления"
-    },
-    "perf": {
-      "title": "🔥 Производительность"
-    },
-    "refactor": {
-      "title": "💅 Рефактор кода"
-    },
-    "test": {
-      "title": "✅ Тестирование"
-    }
+    "chore": { "title": "🏡 Другие изменения" },
+    "docs": { "title": "📖 Документация" },
+    "feat": { "title": "🚀 Улучшения" },
+    "fix": { "title": "🐞 Исправления" },
+    "perf": { "title": "🔥 Производительность" },
+    "refactor": { "title": "💅 Рефактор кода" },
+    "test": { "title": "✅ Тестирование" }
   }
 }
