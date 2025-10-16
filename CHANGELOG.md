@@ -1,4 +1,26 @@
 
+## v0.3.0
+
+[compare changes](https://github.com/ExEr7um/changelogen-config/compare/v0.2.1...v0.3.0)
+
+### 🚀 Улучшения
+
+- Добавление параметров `ci:` и `build:` ([#2](https://github.com/ExEr7um/changelogen-config/pull/2))
+
+### 🏡 Другие изменения
+
+- Настройка ESLint и Prettier ([9b6ec70](https://github.com/ExEr7um/changelogen-config/commit/9b6ec70))
+- Настройка `husky` ([52d6f6a](https://github.com/ExEr7um/changelogen-config/commit/52d6f6a))
+
+### 🤖 CI
+
+- Настройка CI ([#1](https://github.com/ExEr7um/changelogen-config/pull/1))
+- Обновление версии `ExEr7um/workflows` ([e85e430](https://github.com/ExEr7um/changelogen-config/commit/e85e430))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.2.1
 
 [compare changes](https://github.com/ExEr7um/changelogen-config/compare/v0.2.0...v0.2.1)

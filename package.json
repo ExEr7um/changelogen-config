@@ -1,6 +1,6 @@
 {
   "name": "changelogen-config",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Конфигурация Changelogen",
   "scripts": {
     "eslint": "eslint --max-warnings=0",
